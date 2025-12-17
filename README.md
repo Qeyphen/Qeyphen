@@ -6,7 +6,7 @@ I'm a Master's student in Robotics with a passion for building high-performance,
 
 * **Robotics:** Focused on mobile robotics, Autonomous Systems, control theory, and computer vision.
 * **Systems Programming:** Building efficient, reliable, and scalable low-level software.
-* * **Crypto:** Designing high-performance blockchain tooling, execution engines, and smart-contract-driven automation in Rust.
+*  **Crypto:** Designing high-performance blockchain tooling, execution engines, and smart-contract-driven automation in Rust.
 
 ---
 
